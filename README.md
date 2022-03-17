@@ -1,3 +1,3 @@
-#### Values JS
+#### Hex color generator
 
-[values.js](https://github.com/noeldelgado/values.js)
+ Using [values.js](https://github.com/noeldelgado/values.js)
