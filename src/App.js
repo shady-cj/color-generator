@@ -32,6 +32,7 @@ function App() {
                         onChange={(e) => setColor(e.target.value)}
                         placeholder="#f15025"
                         className={`${error ? "error" : null}`}
+                        style={{ outline: "none" }}
                     />
                     <button className="btn" type="submit">
                         Submit
